@@ -1,0 +1,19 @@
+{
+    "projectName": "Username_password_authentication",
+    "description": "username password base authentication flow",
+    "type": "community",
+    "author": "desaioss",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/desaioss/release-repo-username-password",
+    "githubUri": "https://github.com/desaioss/release-repo-username-password",
+    "license": "apache-2.0",
+    "lastUpdated": "1737545803496",
+    "tags": [
+        "openid-connect"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.acme.password": {}
+    },
+    "name": "Username_password_authentication"
+}
