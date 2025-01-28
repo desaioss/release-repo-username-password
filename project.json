@@ -3,7 +3,7 @@
     "description": "username password base authentication flow",
     "type": "community",
     "author": "desaioss",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "authorWebsite": "https://github.com/desaioss/release-repo-username-password",
     "githubUri": "https://github.com/desaioss/release-repo-username-password",
     "license": "apache-2.0",
